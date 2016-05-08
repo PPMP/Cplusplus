@@ -1,2 +1,2 @@
 # C++
-Sample C++ written by Patorn Pongsanit
+#Sample C++ written by Patorn Pongsanit
