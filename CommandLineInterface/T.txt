@@ -1,3 +1,0 @@
-AS hey
-TST 10
-SS
